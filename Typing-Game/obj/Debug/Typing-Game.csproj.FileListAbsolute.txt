@@ -1,0 +1,10 @@
+C:\Users\mihai\source\repos\Typing-Game\bin\Debug\Typing-Game.exe.config
+C:\Users\mihai\source\repos\Typing-Game\bin\Debug\Typing-Game.exe
+C:\Users\mihai\source\repos\Typing-Game\bin\Debug\Typing-Game.pdb
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing-Game.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing_Game.Form1.resources
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing_Game.Properties.Resources.resources
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing-Game.csproj.GenerateResource.cache
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing-Game.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing-Game.exe
+C:\Users\mihai\source\repos\Typing-Game\obj\Debug\Typing-Game.pdb
